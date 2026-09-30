@@ -1,1 +1,3 @@
-# personal-CV
+NEA GENTILES
+BSIT 4D
+IT 415
